@@ -1,0 +1,16 @@
+
+# Raw PISA data files
+data/*.sav
+data/*.csv
+data/*.zip
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Environment and secret files
+.env
+.venv/
